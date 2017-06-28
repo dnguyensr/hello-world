@@ -4,5 +4,5 @@ few
 lines
 for
 the
-examplegit s
+example
 additional line
